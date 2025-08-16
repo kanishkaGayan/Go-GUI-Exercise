@@ -3,5 +3,8 @@ A collection of hands-on GUI exercises built with Go and the Fyne framework. Thi
 
 
 ## 🚀 What's Inside
-- Counter App - simple counter application using the Fyne GUI toolkit in Go.
-- Calculator App - A basic calculator GUI application built with Fyne in Go.
+- 🧮 Counter App - simple counter application using the Fyne GUI toolkit in Go.
+  
+- 🖩 Calculator App - A basic calculator GUI application built with Fyne in Go.
+  
+- 🔄 Unit Converter - It allows users to convert values between various units across different categories such as ```Weight, Length, Liquid, Time, Temperature, Area, Energy, Power, Electric Current, and Digital Storage```
