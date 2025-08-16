@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"net/url"
 	"strconv"
 
 	"fyne.io/fyne/v2"
@@ -357,6 +358,16 @@ func main() {
 		updateTo()
 	}
 
+	link, _ := url.Parse("https://www.linkedin.com/in/kanishka-me/")
+	linkedIn := widget.NewHyperlink("Kanishka Meddegoda", link)
+
+	footer := container.NewHBox(
+		widget.NewLabel("Created by:"),
+		linkedIn,
+	)
+
+	footer = container.NewCenter(footer)
+
 	w.SetContent(container.NewVBox(
 		widget.NewLabel("Select Category"),
 		categorySelect,
@@ -367,6 +378,8 @@ func main() {
 		widget.NewLabel("To"),
 		toSelect,
 		toEntry,
+		widget.NewSeparator(),
+		footer,
 	))
 
 	w.Resize(fyne.NewSize(420, 500))
