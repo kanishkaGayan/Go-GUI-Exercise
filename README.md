@@ -3,4 +3,5 @@ A collection of hands-on GUI exercises built with Go and the Fyne framework. Thi
 
 
 ## 🚀 What's Inside
-- Counter-App - simple counter application using the Fyne GUI toolkit in Go.
+- Counter App - simple counter application using the Fyne GUI toolkit in Go.
+- Calculator App - A basic calculator GUI application built with Fyne in Go.
