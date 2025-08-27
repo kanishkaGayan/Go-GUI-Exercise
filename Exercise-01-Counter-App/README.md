@@ -7,6 +7,10 @@ A simple, elegant counter application built with Go and the Fyne GUI toolkit. Th
 
 This counter application provides a clean, intuitive interface for incrementing a numerical counter. Built as a learning exercise to explore Go's GUI capabilities through the Fyne framework, it showcases modern cross-platform desktop application development.
 
+## ✨ Screen Shots
+ <img width="469" height="383" alt="image" src="https://github.com/user-attachments/assets/93a5c8d0-19fc-4182-b19c-8649d2700bc6" />
+
+
 ## ✨ Features
 
 - **Simple Counter Interface**: Clean, minimalist design with a counter display and increment button
@@ -30,7 +34,7 @@ This counter application provides a clean, intuitive interface for incrementing 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kanishkaGayan/Go-GUI-Exercise/Exercise-01-Counter-App
+   git clone https://github.com/kanishkaGayan/Go-GUI-Exercise/tree/main/Exercise-01-Counter-App
    cd go-counter-app
    ```
 
