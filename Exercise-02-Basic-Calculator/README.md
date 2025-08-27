@@ -10,8 +10,7 @@ A simple GUI calculator application built with Go and the Fyne framework. This c
 - **Real-time Calculation**: Click the "Calculate" button to get instant results
 
 ## Screenshots
-<img width="469" height="383" alt="image" src="https://github.com/user-attachments/assets/dac004ec-eb57-42c4-bfd8-f91db1f2f07f" />
-
+<img width="553" height="480" alt="image" src="https://github.com/user-attachments/assets/a207bb5a-aa5a-46ed-9bd4-87e673845fc0" />
 
 The calculator features a simple vertical layout with:
 - Two input fields for numbers
