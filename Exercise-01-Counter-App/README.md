@@ -30,7 +30,7 @@ This counter application provides a clean, intuitive interface for incrementing 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kanishkagayan/go-counter-app.git
+   git clone https://github.com/kanishkaGayan/Go-GUI-Exercise/Exercise-01-Counter-App
    cd go-counter-app
    ```
 
@@ -124,7 +124,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@kanishkagayan](https://github.com/kanishkagayan)
+- GitHub: [@kanishkaGayan](https://github.com/kanishkaGayan)
 
 ---
 
