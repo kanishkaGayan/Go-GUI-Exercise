@@ -27,7 +27,7 @@ The calculator features a simple vertical layout with:
 
 1. **Clone or download the project**:
    ```bash
-   git clone [https://github.com/kanishkaGayan/Go-GUI-Exercise]
+   git clone https://github.com/kanishkaGayan/Go-GUI-Exercise.git
    cd Exercise-02-Basic-Calculator
    ```
 
